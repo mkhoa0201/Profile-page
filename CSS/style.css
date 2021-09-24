@@ -11,7 +11,7 @@ h1 {
   margin: 50px;
   font-family: 'Mina', sans-serif;
   line-height: 2;
-  font-size: 5.5rem;
+  font-size: 4.5rem;
   color: #66BFBF;
 
 }
@@ -181,7 +181,7 @@ p {
   font-size:36px;
   font-weight:bold;
   padding-top:20px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   width:100%;
   bottom:45%;
   display:block;
